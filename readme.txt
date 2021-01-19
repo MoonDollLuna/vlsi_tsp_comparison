@@ -16,11 +16,13 @@ This assignment contains the following scripts:
 					 
 In addition, the following folders are included:
 
-- Final Results: Contains the results (both the results for all iterations and the
-                 best tour found per execution) for all pairs of algorithm and problem.
 - Graphs: Contains the graphs used in the paper in higher resolution, as well as the
           script used to construct them (and the text filed used to do so).
 - Problems: Contains the three problems to be solved using the algorithms as .tsp files.
+
+Due to size constraints, the final results for all algorithms are not included.
+However, they are available in the following public repository:
+https://github.com/MoonDollLuna/vlsi_tsp_comparison
 
 # 2 - Use of the scripts
 
