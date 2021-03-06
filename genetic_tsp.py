@@ -50,7 +50,7 @@ mutation_chance = 0.1
 # Valid options:
 #   * "2pcs" - Two points crossover
 #   * "scx" - Sequential constructive crossover
-crosssover_method = "2pcs"
+crosssover_method = "scx"
 
 # iteration_count - Number of iterations
 iteration_count = 300
